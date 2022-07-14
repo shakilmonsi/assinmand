@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.infor {
+    width: 10px;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(rbga(0, 0, 0, 0, 5), rbga(0, 0, 0, 0, 5)), url(images/donation5.jpg);
