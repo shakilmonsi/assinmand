@@ -101,4 +101,35 @@ body {
     text-align: center;
 }
 
-.mama {}
+.shakil {
+    background-image: url(images/food.png);
+    background: fixed;
+
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mshi {
+    font-size: 50px;
+    font: color red justify-content: center;
+    text-align: center;
+}
+
+.baba {
+
+
+    text-align: center;
+    font-size: 50px;
+
+    background-color: rgb(175, 29, 29);
+    background-size: 20px 100px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.koka {
+    font-size: 20px;
+
+}
